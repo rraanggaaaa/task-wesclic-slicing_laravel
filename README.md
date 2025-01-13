@@ -7,3 +7,11 @@ Link Figma Slicing:
 <p align="center">
 <a href="https://www.figma.com/design/cNFvQCdWQmBxt3sYpPFlTX/Portfolio-template---Edit-this-portfolio-and-export-it-as-HTML---Get-your-portflio-live-in-no-time-(Community)?node-id=701-1063&t=NCgPaSCIrSGXXmW4-0">https://www.figma.com/design/cNFvQCdWQmBxt3sYpPFlTX/Portfolio-template---Edit-this-portfolio-and-export-it-as-HTML---Get-your-portflio-live-in-no-time-(Community)?node-id=701-1063&t=NCgPaSCIrSGXXmW4-0</a>
 </p>
+
+# Dashboard
+![App Screenshot](https://github.com/rraanggaaaa/task-wesclic-slicing_laravel/blob/master/storage/screenshot/dashboard.png)
+# Service
+![App Screenshot](https://github.com/rraanggaaaa/task-wesclic-slicing_laravel/blob/master/storage/screenshot/service.png)
+# Testimonial
+![App Screenshot](https://github.com/rraanggaaaa/task-wesclic-slicing_laravel/blob/master/storage/screenshot/testimonial.png)
+
