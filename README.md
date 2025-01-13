@@ -5,5 +5,5 @@
 Link Figma Slicing:
 
 <p align="center">
-<a href="https://www.figma.com/design/cNFvQCdWQmBxt3sYpPFlTX/Portfolio-template---Edit-this-portfolio-and-export-it-as-HTML---Get-your-portflio-live-in-no-time-(Community)?node-id=701-1063&t=NCgPaSCIrSGXXmW4-0"></a>
+<a href="https://www.figma.com/design/cNFvQCdWQmBxt3sYpPFlTX/Portfolio-template---Edit-this-portfolio-and-export-it-as-HTML---Get-your-portflio-live-in-no-time-(Community)?node-id=701-1063&t=NCgPaSCIrSGXXmW4-0">https://www.figma.com/design/cNFvQCdWQmBxt3sYpPFlTX/Portfolio-template---Edit-this-portfolio-and-export-it-as-HTML---Get-your-portflio-live-in-no-time-(Community)?node-id=701-1063&t=NCgPaSCIrSGXXmW4-0</a>
 </p>
